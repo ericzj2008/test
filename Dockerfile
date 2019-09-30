@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/distroless/python2.7
+FROM gcr.io/distroless/python2.7
